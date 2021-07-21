@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @A1RT0N
+- 👀 I’m interested in math, computer science and new people to talk with
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: insta = @_ayrton_filho_
