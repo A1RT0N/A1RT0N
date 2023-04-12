@@ -1,4 +1,4 @@
-## Olá! Meu nome é Ayrton. Sou um estudante de programação e futuro cientista da computação!
+## Olá! Meu nome é Ayrton. Sou estudante de Ciência da Computação na Universidade de São Paulo no Instituto de Ciências Matemáticas e de Computação!
 <div align="center">
   <a href="https://github.com/A1RT0N">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A1RT0N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
