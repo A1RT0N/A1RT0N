@@ -8,8 +8,6 @@
   ## Linguagens de programação que uso:
 <div style="display: inline_block"><br>
   <img align="center" alt="A1RT0N-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="A1RT0N-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
-  <img align="center" alt="A1RT0N-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">
   <img align="center" alt="A1RT0N-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="A1RT0N-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="A1RT0N-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
