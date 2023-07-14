@@ -19,8 +19,7 @@
     <a href="https://t.me/AyrtonFilho" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ayrtoncostaganemfilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ayrton-costa-ganem-filho-2b0316219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/a1rt0n/a1rt0n/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
   
